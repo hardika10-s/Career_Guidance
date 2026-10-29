@@ -1,0 +1,4 @@
+Cohort Skill-Gap & Market Alignment Summary
+Analyzed 300 students across 4 departments.
+Top demand track: AI Engineer (Demand 96/100, Deficit: RAG Architectures & LLM Fine-Tuning)
+Highest intervention ROI: Complete 1 Capstone Project (+14.2% readiness lift)

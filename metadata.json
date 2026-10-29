@@ -1,0 +1,6 @@
+{
+  "name": "AI-Based Career Guidance Framework for Employability Development",
+  "description": "An intelligent career guidance and employability framework analyzing student profiles, skill gaps, roadmaps, skill evidence, and AI interview simulations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

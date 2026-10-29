@@ -1,0 +1,92 @@
+{
+  "Software Developer": {
+    "market_demand_index": 95,
+    "avg_starting_lpa": 8.5,
+    "avg_student_gap_pct": 28,
+    "top_deficit_skill": "System Design & Architecture"
+  },
+  "Full-Stack Developer": {
+    "market_demand_index": 92,
+    "avg_starting_lpa": 9.2,
+    "avg_student_gap_pct": 32,
+    "top_deficit_skill": "Full-Stack State Management"
+  },
+  "Backend Developer": {
+    "market_demand_index": 90,
+    "avg_starting_lpa": 9.5,
+    "avg_student_gap_pct": 30,
+    "top_deficit_skill": "Database Query Optimization"
+  },
+  "Frontend Developer": {
+    "market_demand_index": 85,
+    "avg_starting_lpa": 7.5,
+    "avg_student_gap_pct": 24,
+    "top_deficit_skill": "TypeScript & Performance Profiling"
+  },
+  "Data Analyst": {
+    "market_demand_index": 88,
+    "avg_starting_lpa": 7.0,
+    "avg_student_gap_pct": 25,
+    "top_deficit_skill": "Advanced SQL & BI Dashboards"
+  },
+  "Data Scientist": {
+    "market_demand_index": 86,
+    "avg_starting_lpa": 11.0,
+    "avg_student_gap_pct": 40,
+    "top_deficit_skill": "Statistical Modeling & Feature Engineering"
+  },
+  "AI Engineer": {
+    "market_demand_index": 96,
+    "avg_starting_lpa": 13.5,
+    "avg_student_gap_pct": 42,
+    "top_deficit_skill": "RAG Architectures & LLM Fine-Tuning"
+  },
+  "Machine Learning Engineer": {
+    "market_demand_index": 91,
+    "avg_starting_lpa": 12.0,
+    "avg_student_gap_pct": 38,
+    "top_deficit_skill": "MLOps & Model Deployment"
+  },
+  "Cloud Engineer": {
+    "market_demand_index": 89,
+    "avg_starting_lpa": 9.0,
+    "avg_student_gap_pct": 35,
+    "top_deficit_skill": "Docker Containerization & Kubernetes"
+  },
+  "DevOps Engineer": {
+    "market_demand_index": 87,
+    "avg_starting_lpa": 9.8,
+    "avg_student_gap_pct": 36,
+    "top_deficit_skill": "CI/CD Pipeline Automation"
+  },
+  "Cybersecurity Analyst": {
+    "market_demand_index": 84,
+    "avg_starting_lpa": 8.0,
+    "avg_student_gap_pct": 34,
+    "top_deficit_skill": "Vulnerability Assessment & Network Forensics"
+  },
+  "Database Developer": {
+    "market_demand_index": 80,
+    "avg_starting_lpa": 7.8,
+    "avg_student_gap_pct": 26,
+    "top_deficit_skill": "Relational Index Tuning & Stored Procedures"
+  },
+  "Software Tester / QA Engineer": {
+    "market_demand_index": 78,
+    "avg_starting_lpa": 6.2,
+    "avg_student_gap_pct": 22,
+    "top_deficit_skill": "Automated Testing Frameworks (Selenium/Jest)"
+  },
+  "Java Developer": {
+    "market_demand_index": 88,
+    "avg_starting_lpa": 8.2,
+    "avg_student_gap_pct": 27,
+    "top_deficit_skill": "Spring Boot Microservices"
+  },
+  "Python Developer": {
+    "market_demand_index": 90,
+    "avg_starting_lpa": 8.8,
+    "avg_student_gap_pct": 26,
+    "top_deficit_skill": "FastAPI & Async IO"
+  }
+}

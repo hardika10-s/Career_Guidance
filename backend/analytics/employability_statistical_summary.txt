@@ -1,0 +1,8 @@
+AI Career Guidance Framework - Employability Statistical Audit
+Analyzed 300 records.
+Readiness Mean: 71.2%, StdDev: 7.2%
+Correlation Tech Skills: +0.181
+Correlation Projects: +0.861
+Correlation Interview: +0.602
+Correlation CGPA: +0.208
+Correlation Package: +0.711

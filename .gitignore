@@ -1,0 +1,56 @@
+# Dependencies
+node_modules/
+frontend/node_modules/
+backend/venv/
+backend/.venv/
+env/
+venv/
+
+# Build and Production Artifacts
+dist/
+build/
+frontend/dist/
+frontend/build/
+*.egg-info/
+
+# Python Cache & Bytecode
+__pycache__/
+**/__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Databases and Backups
+backend/*.db
+*.db-journal
+backend/data_backup_sqlite.json
+*backup*.json
+
+# Environment variables
+.env
+.env.*
+!.env.example
+!frontend/.env.example
+!backend/.env.example
+
+# IDE & Editor files
+.vscode/*
+!.vscode/tasks.json
+!.vscode/launch.json
+.idea/
+*.swp
+*.swo
+
+# Logs and OS files
+*.log
+.DS_Store
+Thumbs.db
+coverage/
+.vercel/
+*.pem
+*.key
+credentials.json
+service-account*.json
+
+.vite/
+frontend/.vite/
